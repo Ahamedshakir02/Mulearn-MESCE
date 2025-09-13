@@ -34,19 +34,7 @@ Remember to keep the JSON format intact while making these changes.
 
 ## Step 4: Host Your Repository
 
-To make your changes live and accessible on the web, you can host your repository using services like Vercel or Netlify. Here's a basic guide:
-
-- **Netlify Hosting**:
-  - Watch this video tutorial on how to deploy a GitHub repository to Netlify:  [Netlify Deployment Tutorial](https://youtu.be/4h8B080Mv4U?feature=shared).
-
-- **Vercel Hosting**:
-  - Visit [Vercel](https://www.vercel.com/) and sign up for an account if you don't have one.
-  - Connect your GitHub account to Vercel.
-  - Create a new site and select your forked repository.
-  - Configure the build settings (usually, the default settings work fine).
-  - Deploy your site.
-
-Once your site is deployed, you'll receive a URL where your Mulearn Campus Chapter page can be accessed.
+https://mulearnmesce.netlify.app/
 
 ## Step 5: Share and Collaborate
 
