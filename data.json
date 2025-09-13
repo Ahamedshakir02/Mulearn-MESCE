@@ -86,11 +86,10 @@
             "name": "Fathima Minha Zain",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-  /*      "treasurer": {
+        "treasurer": {
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-*/
         "technicalLead": {
             "name": "Safeel A",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
@@ -98,8 +97,8 @@
         "mediaLead": {
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        }
-  /*      "contentLead": {
+        },
+        "contentLead": {
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
@@ -107,7 +106,6 @@
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         }
-	/*
 	},
 
     "discordLink": "https://discord.gg/eQH7zWPPDP",
@@ -120,7 +118,7 @@
 
     "instagram": "https://www.instagram.com/mulearnmesce/",
 
-   // "twitter": "",
+    "twitter": "",
 
-   // "facebook": ""
+    "facebook": ""
 }
