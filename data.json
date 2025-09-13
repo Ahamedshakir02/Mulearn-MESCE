@@ -76,35 +76,35 @@
     "team": {
         "staffAdvisor": {
             "name": "Dr. Bindu Anto Ollukaran",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": ""
         },
         "campusLead": {
             "name": "Ahamed Shakir",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+            "image": ""
         },
         "campusCoLead": {
             "name": "Fathima Minha Zain",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": ""
         },
         "treasurer": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "",
+            "image": ""
         },
         "technicalLead": {
             "name": "Safeel A",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": ""
         },
         "mediaLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "",
+            "image": ""
         },
         "contentLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "",
+            "image": ""
         },
         "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "",
+            "image": ""
         }
 	},
 
