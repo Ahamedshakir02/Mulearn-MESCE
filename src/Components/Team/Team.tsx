@@ -70,16 +70,16 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.treasurer.image}
+                                src={data.team.creativeLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.treasurer.name}
+                                {data.team.creativeLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Treasurer
+                                Creative Lead
                             </div>
                         </div>
                     </div>
@@ -121,16 +121,16 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.contentLead.image}
+                                src={data.team.igLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.contentLead.name}
+                                {data.team.igLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Content Lead
+                                IG Lead
                             </div>
                         </div>
                     </div>
