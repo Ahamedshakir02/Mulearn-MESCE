@@ -5,7 +5,6 @@
 
     "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
 
-   /* 
 	"events": [
         {
             "month": "Sep",
@@ -65,7 +64,6 @@
             }
         ]
     },
-	*/
 	
     "statistics": {
         "studentsCount": 30,
@@ -77,30 +75,31 @@
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
+            "name": "Dr. Bindu Anto Ollukaran",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusLead": {
-            "name": "Elon Musk",
+            "name": "Ahamed Shakir",
             "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
         },
         "campusCoLead": {
+            "name": "Fathima Minha Zain",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+  /*      "treasurer": {
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "treasurer": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        },
+*/
         "technicalLead": {
-            "name": "Enric S Neelamkavil",
+            "name": "Safeel A",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "mediaLead": {
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        },
-        "contentLead": {
+        }
+  /*      "contentLead": {
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
@@ -108,7 +107,8 @@
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         }
-    },
+	/*
+	},
 
     "discordLink": "https://discord.gg/eQH7zWPPDP",
 
