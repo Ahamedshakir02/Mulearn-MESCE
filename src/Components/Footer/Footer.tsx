@@ -36,14 +36,6 @@ const Footer = () => {
                     <Instagram />
                     Instagram
                 </a>
-                <a href={data.twitter}>
-                    <Twitter />
-                    Twitter
-                </a>
-                <a href={data.facebook}>
-                    <Facebook />
-                    Facebook
-                </a>
             </div>
             <div className={styles.line}></div>
             <div className={styles.ptag}>
