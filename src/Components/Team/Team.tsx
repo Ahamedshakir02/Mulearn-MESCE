@@ -142,14 +142,14 @@ const Team = () => {
                                 loading="lazy"
                             />
                         </div>
-                        <div className={styles.teamNameDesignation}>
-                            <div className={styles.teamMemberName}>
-                                {data.team.operationLead.name}
-                            </div>
-                            <div className={styles.teamMemberDesignation}>
-                                Operation Lead
-                            </div>
-                        </div>
+                    //    <div className={styles.teamNameDesignation}>
+                    //        <div className={styles.teamMemberName}>
+                    //            {data.team.operationLead.name}
+                    //        </div>
+                    //        <div className={styles.teamMemberDesignation}>
+                    //            Operation Lead
+                    //        </div>
+                    //    </div>
                     </div>
                 </div>
             </div>
