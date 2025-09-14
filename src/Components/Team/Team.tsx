@@ -19,16 +19,16 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.staffAdvisor.image}
+                                src={data.team.campusEnabler.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.staffAdvisor.name}
+                                {data.team.campusEnabler.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Staff Advisor
+                                Campus Enabler
                             </div>
                         </div>
                     </div>
