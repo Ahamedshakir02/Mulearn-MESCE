@@ -134,20 +134,21 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                     <div className={`${styles.team} ${styles.team8}`}>
+                    
+                    <div className={`${styles.team} ${styles.team8}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.documentation.image}
+                                src={data.team.operationLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.documentation.name}
+                                {data.team.operationLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Documentation 
+                                Operation Lead
                             </div>
                         </div>
                     </div>
