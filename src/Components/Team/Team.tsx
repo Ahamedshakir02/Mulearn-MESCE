@@ -104,7 +104,7 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src="https://i.postimg.cc/CZMxhypx/ANOOP.png"
+                                src={data.team.meadiaLead.name}
                                 loading="lazy"
                             />
                         </div>
