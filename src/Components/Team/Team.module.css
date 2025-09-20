@@ -169,6 +169,13 @@
     left: 40%;
 }
 
+.team10 {
+    margin-top: 800px;
+
+    top: 100%;
+    left: 60%;
+}
+
 @media screen and (max-width: 1650px) {
     .teamBodyWrapper {
         height: 95vh;
