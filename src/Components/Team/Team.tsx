@@ -130,6 +130,40 @@ const Team = () => {
                                 {data.team.igLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
+                                Content Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team7}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.igLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.igLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Design Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team7}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.igLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.igLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
                                 IG Lead
                             </div>
                         </div>
