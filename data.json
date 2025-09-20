@@ -95,14 +95,22 @@
             "image": ""
         },
         "mediaLead": {
-            "name": "Adhnan C T",
+            "name": "Avinash Raj",
             "image": ""
         },
         "igLead": {
             "name": "Fathima Hiba",
             "image": ""
         },
-        "documentationLead": {
+        "contentLead": {
+            "name": "Minha Gafoor",
+            "image": ""
+        }
+		 "designLead": {
+            "name": "Mohammad Shaheem",
+            "image": ""
+        }
+		 "documentationLead": {
             "name": "Sadaf Thithi",
             "image": ""
         }
