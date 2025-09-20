@@ -121,13 +121,13 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.igLead.image}
+                                src={data.team.contentLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.igLead.name}
+                                {data.team.contentLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
                                 Content Lead
@@ -138,13 +138,13 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.igLead.image}
+                                src={data.team.designLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.igLead.name}
+                                {data.team.designLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
                                 Design Lead
