@@ -117,7 +117,7 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                    <div className={`${styles.team} ${styles.team7}`}>
+                    <div className={`${styles.team} ${styles.team10}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
