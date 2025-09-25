@@ -21,6 +21,13 @@
   font-size: 1.2rem;
 }
 
+.showMoreLink {
+    color: #ad58ff;
+    cursor: pointer;
+    font-weight: 500;
+    
+}
+
 @media screen and (max-width: 900px) {
   .AboutWrapper p {
     font-size: 17px;
