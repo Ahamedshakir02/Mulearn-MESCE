@@ -3,8 +3,8 @@
 
     "college": "MES College of Engineering, Kuttippuram",
 
-    "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
-
+    "about": " µLearn MESCE will be officially established on September 26, 2025, with the vision of embracing a synergic philosophy of education and fostering a culture of mutual learning through micro peer groups. Under the leadership of Ahamed Shakir as the Campus Lead and Dr. Bindu Anto Ollukaran as the Faculty Enabler, µLearn MESCE embarks on a journey to empower students to break free from echo chambers and overcome the limitations of conventional thinking.\n\nWith the formation of its Executive Committee (Execom), comprising passionate and dedicated student leaders, µLearn MESCE is set to advance its mission and vision with commitment and innovation. The community aspires to become a vibrant hub of collaboration, creativity, and continuous learning—where students come together not just to share knowledge, but to redefine the way learning happens.",
+    
 	"events": [
         {
             "month": "Sep",
@@ -88,7 +88,7 @@
         },
         "creativeLead": {
             "name": "Hana Sharin O",
-            "image": "https://postimg.cc/pmvR2nKT"
+            "image": "https://i.postimg.cc/kXGT2Ffr/Hana-removebg-preview.png"
         },
         "technicalLead": {
             "name": "Safeel A",
