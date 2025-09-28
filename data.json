@@ -9,37 +9,9 @@
         {
             "month": "Sep",
             "date": "29",
-            "head": "Event 1",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "27",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "26",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "head": "Keyboard Mastery Challenge",
+            "para": "Conducted an 10 day typing challenge to improve typing speed and accuracy.",
+            "img": ""
         }
     ],
 
@@ -66,11 +38,11 @@
     },
 	
     "statistics": {
-        "studentsCount": 30,
+        "studentsCount": 124,
         "learningCircles": 10,
-        "InterestGroups": 5,
-        "karmaEarned": 60,
-        "rank": 28
+        "InterestGroups": 4,
+        "karmaEarned": "127.1k",
+        "rank": 41
     },
 
     "team": {
@@ -84,11 +56,11 @@
         },
         "campusCoLead": {
             "name": "Fathima Minha Zain",
-            "image": "https://i.postimg.cc/y87tkHqx/Group.png"
+            "image": "../src/members/Minha Zain.png"
         },
         "creativeLead": {
             "name": "Hana Sharin O",
-            "image": "https://i.postimg.cc/kXGT2Ffr/Hana-removebg-preview.png"
+            "image": ""
         },
         "technicalLead": {
             "name": "Safeel A",
