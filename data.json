@@ -68,7 +68,7 @@
         },
         "mediaLead": {
             "name": "Avinash Raj",
-            "image": "https://postimg.cc/r0DLhG2h"
+            "image": "../src/members/Avinash Raj.png"
         },
         "igLead": {
             "name": "Fathima Hiba",
@@ -84,7 +84,7 @@
         },
 		 "documentationLead": {
             "name": "Sadaf Thithi",
-            "image": ""
+            "image": "../src/members/Sadaf Thithi.png"
         }
 	},
 
