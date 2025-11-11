@@ -27,10 +27,10 @@ const Statistics = () => {
 
     useEffect(() => {
         const finalValues: number[] = [
-            data.statistics.studentsCount ?? 0,
-            data.statistics.learningCircles ?? 0,
-            data.statistics.InterestGroups ?? 0,
-            data.statistics.karmaEarned ?? 0,
+            Number(data.statistics.studentsCount) || 0,
+            Number(data.statistics.learningCircles) || 0,
+            Number(data.statistics.InterestGroups) || 0,
+            Number(data.statistics.karmaEarned) || 0,
         ];
 
         const startCounterAnimation = () => {
