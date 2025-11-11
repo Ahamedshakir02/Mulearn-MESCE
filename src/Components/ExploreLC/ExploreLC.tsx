@@ -11,12 +11,12 @@ const ExploreLC = () => {
                 <h1>Explore Learning Circles</h1>
                 <p>
                     An informal mechanism for bringing together learners who are
-                    interested in the same topic from across different fields
+                    interested in the same topic from across dzifferent fields
                     and disciplines. A fantastic way to spend a small amount of
                     time learning about new things with a group of people with
                     same interests!
                 </p>
-                <a target="_blank" href="https://app.mulearn.org/learning-circle">
+                <a target="_blank" href="https://app.mulearn.org/dashboard/learningcircle">
                     Create/Join Learning Circles
                 </a>
             </div>
