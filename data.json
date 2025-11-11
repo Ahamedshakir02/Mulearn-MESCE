@@ -52,7 +52,7 @@
         },
         "campusLead": {
             "name": "Ahamed Shakir",
-            "image": "https://postimg.cc/p9GHYG4h"
+            "image": "/members/Ahamed-Shakir.png"
         },
         "campusCoLead": {
             "name": "Fathima Minha Zain",
@@ -60,11 +60,11 @@
         },
         "creativeLead": {
             "name": "Hana Sharin O",
-            "image": ""
+            "image": "/members/Hana-Sharin.png"
         },
         "technicalLead": {
             "name": "Safeel A",
-            "image": "https://postimg.cc/gX1b1wYG"
+            "image": "/members/Safeel.png"
         },
         "mediaLead": {
             "name": "Avinash Raj",
@@ -72,15 +72,15 @@
         },
         "igLead": {
             "name": "Fathima Hiba",
-            "image": ""
+            "image": "/members/Fathima-Hiba.png"
         },
         "contentLead": {
             "name": "Minha Gafoor",
-            "image": ""
+            "image": "/members/Minha-Gafoor.png"
         },
 		 "designLead": {
             "name": "Mohammad Shaheem",
-            "image": ""
+            "image": "/members/Mohammad-Shaheem.png"
         },
 		 "documentationLead": {
             "name": "Sadaf Thithi",
