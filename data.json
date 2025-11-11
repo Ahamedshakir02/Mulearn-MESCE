@@ -56,7 +56,7 @@
         },
         "campusCoLead": {
             "name": "Fathima Minha Zain",
-            "image": "/src/members/Minha Zain.png"
+            "image": "/members/Minha Zain.png"
         },
         "creativeLead": {
             "name": "Hana Sharin O",
@@ -68,7 +68,7 @@
         },
         "mediaLead": {
             "name": "Avinash Raj",
-            "image": "/src/members/Avinash Raj.png"
+            "image": "/members/Avinash Raj.png"
         },
         "igLead": {
             "name": "Fathima Hiba",
@@ -84,7 +84,7 @@
         },
 		 "documentationLead": {
             "name": "Sadaf Thithi",
-            "image": "/src/members/Sadaf Thithi.png"
+            "image": "/members/Sadaf Thithi.png"
         }
 	},
 
