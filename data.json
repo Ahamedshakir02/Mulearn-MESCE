@@ -11,20 +11,20 @@
             "date": "29",
             "head": "Keyboard Mastery Challenge",
             "para": "Conducted an 10 day typing challenge to improve typing speed and accuracy.",
-            "img": ""
+            "img": "/events/Keyboard-Mastery.png"
         }
     ],
 
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+                "image": "/gallery/"
             },
             {
-                "image": "https://mulearn.org/assets/home/Chart.webp"
+                "image": "/gallery/"
             },
 			{
-				"image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
+				"image": "/gallery/"
 			}
         ],
         "row2": [
@@ -41,8 +41,8 @@
         "studentsCount": 124,
         "learningCircles": 10,
         "InterestGroups": 4,
-        "karmaEarned": "127.1k",
-        "rank": 41
+        "karmaEarned": "17600",
+        "rank": 36
     },
 
     "team": {
