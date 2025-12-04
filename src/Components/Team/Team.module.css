@@ -16,7 +16,7 @@
 .teamBodyWrapper {
     position: relative;
     height: 85vh;
-    min-height: 700px;
+    min-height: 1150px;
 }
 
 .teamBgLineWrapper {
@@ -81,9 +81,8 @@
     display: flex;
     font-weight: 700;
     height: fit-content;
-    justify-content: center;
     width: fit-content;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 .teamMemberDesignation {
@@ -248,6 +247,7 @@
 
     .teamBodyWrapper {
         height: 120vh;
+        min-height: 1200px;
     }
 
     .teamBgLineWrapper {
@@ -303,20 +303,40 @@
     }
 
     .team8 {
-        margin-top: 640px;
+        margin-top: 650px;
 
         left: 60%;
     }
+    .team9 {
+        margin-top: 920px;
+        left: 10%;
+    }
+
+    .team10 {
+        margin-top: 920px;
+
+        left: 50%;
+    }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 950px) {
     .team7 {
         margin-top: 620px;
-        left: 20%;
+        left: 15%;
     }
 
     .team8 {
         margin-top: 610px;
+
+        left: 60%;
+    }
+    .team9 {
+        margin-top: 960px;
+        left: 15%;
+    }
+
+    .team10 {
+        margin-top: 960px;
 
         left: 60%;
     }
@@ -395,6 +415,16 @@
 
         left: 56%;
     }
+    .team9 {
+        margin-top: 860px;
+        left: 20%;
+    }
+
+    .team10 {
+        margin-top: 860px;
+
+        left: 56%;
+    }
 }
 
 @media screen and (max-width: 650px) {
@@ -469,13 +499,19 @@
 
         left: 60%;
     }
-}
+     .team9 {
+        margin-top: 910px;
+        left: 10%;
+    }
 
-@media screen and (max-height: 600px) {
-    .teamBodyWrapper {
-        height: 850px;
+    .team10 {
+        margin-top: 910px;
+
+        left: 50%;
     }
 }
+
+
 
 @media screen and (max-width: 480px) {
     .team1 {
@@ -528,7 +564,7 @@
 
 @media screen and (max-width: 380px) {
     .teamBodyWrapper {
-        height: 115vh;
+        height: auto;
     }
 
     .teamImageIndividual {
@@ -587,6 +623,16 @@
 
         left: 52%;
     }
+    .team9 {
+        margin-top: 910px;
+        left: 8%;
+    }
+
+    .team10 {
+        margin-top: 910px;
+
+        left: 52%;
+    }
 }
 
 @media screen and (max-width: 1200px) and (max-height: 780px) {
@@ -609,6 +655,6 @@
 
 @media screen and (max-width: 400px) and (max-height: 800px) {
     .teamBodyWrapper {
-        min-height: 920px;
+        min-height: 1200px;
     }
 }
