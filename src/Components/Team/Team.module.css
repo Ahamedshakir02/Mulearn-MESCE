@@ -237,6 +237,19 @@
         top: 100%;
         left: 77%;
     }
+    .team9 {
+        margin-top: 720px;
+        top: 100%;
+        left: 24%;
+    }
+
+    .team10 {
+        margin-top: 720px;
+
+        top: 100%;
+        left: 57%;
+    }
+
 }
 
 @media screen and (max-width: 1200px) {
@@ -246,8 +259,7 @@
     }
 
     .teamBodyWrapper {
-        height: 120vh;
-        min-height: 1200px;
+        height: 210vh;
     }
 
     .teamBgLineWrapper {
@@ -308,14 +320,14 @@
         left: 60%;
     }
     .team9 {
-        margin-top: 920px;
-        left: 10%;
+        margin-top: 1000px;
+        left: 20%;
     }
 
     .team10 {
-        margin-top: 920px;
+        margin-top: 1000px;
 
-        left: 50%;
+        left: 60%;
     }
 }
 
@@ -337,14 +349,13 @@
 
     .team10 {
         margin-top: 960px;
-
         left: 60%;
     }
 }
 
 @media screen and (max-width: 780px) {
     .teamBodyWrapper {
-        height: 105vh;
+        height: 1200px;
     }
 
     .teamBgLineWrapper> :nth-child(3) {
@@ -514,6 +525,9 @@
 
 
 @media screen and (max-width: 480px) {
+    .teamBodyWrapper {
+        height: 1200px;
+    }
     .team1 {
         margin-top: -120px;
         top: 0;
@@ -560,11 +574,21 @@
 
         left: 52%;
     }
+    .team9 {
+        margin-top: 900px;
+        left: 10%;
+    }
+
+    .team10 {
+        margin-top: 900px;
+
+        left: 50%;
+    }
 }
 
 @media screen and (max-width: 380px) {
     .teamBodyWrapper {
-        height: auto;
+        height: 1200px;
     }
 
     .teamImageIndividual {
