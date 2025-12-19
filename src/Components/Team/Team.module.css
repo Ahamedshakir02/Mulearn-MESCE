@@ -44,6 +44,7 @@
     align-items: center;
     justify-content: center;
     width: 100%;
+    z-index: 10; /* This moves the whole group of people to the front */
 }
 
 .team {
@@ -56,14 +57,16 @@
     flex-direction: column;
     gap: 20px;
     position: absolute;
+    z-index: 11; /* Individual cards stay on top */
 }
 
 .teamImageIndividual {
     height: 15rem;
-    object-fit: contain;
-    position: relative;
-    vertical-align: top;
     width: 15rem;
+    object-fit: cover;    /* Changed from contain to cover */
+    border-radius: 50%;
+    position: relative;
+    z-index: 2;           /* Ensures face is ABOVE the blobs */
     
 }
 
@@ -589,26 +592,10 @@
     }
 }
 
-@media screen and (max-width: 1200px) and (max-height: 780px) {
+@media screen and (max-width: 780px) {
     .teamBodyWrapper {
-        min-height: 1000px;
-    }
-}
-
-@media screen and (max-width: 600px) and (max-height: 800px) {
-    .teamBodyWrapper {
-        min-height: 920px;
-    }
-}
-
-@media screen and (max-width: 500px) and (max-height: 800px) {
-    .teamBodyWrapper {
-        min-height: 970px;
-    }
-}
-
-@media screen and (max-width: 400px) and (max-height: 800px) {
-    .teamBodyWrapper {
-        min-height: 920px;
+        height: auto !important;
+        min-height: auto !important;
+        padding-bottom: 50px; /* Gives some breathing room at the bottom */
     }
 }
