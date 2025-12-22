@@ -46,8 +46,12 @@
     },
 
     "team": {
-        "campusEnabler": {
+        "campusEnabler1": {
             "name": "Dr. Bindu A O",
+            "image": ""
+        },
+        "campusEnabler2": {
+            "name": "Harikrishnan R",
             "image": ""
         },
         "campusLead": {
