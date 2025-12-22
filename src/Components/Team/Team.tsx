@@ -20,13 +20,13 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.campusEnabler.image}
+                                src={data.team.campusEnabler1.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.campusEnabler.name}
+                                {data.team.campusEnabler1.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
                                 Campus Enabler
@@ -34,6 +34,23 @@ const Team = () => {
                         </div>
                     </div>
                     <div className={`${styles.team} ${styles.team2}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.campusEnabler2.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.campusEnabler2.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Campus Enabler
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team3}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
@@ -50,7 +67,7 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                    <div className={`${styles.team} ${styles.team3}`}>
+                    <div className={`${styles.team} ${styles.team4}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
@@ -67,7 +84,7 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                    <div className={`${styles.team} ${styles.team4}`}>
+                    <div className={`${styles.team} ${styles.team5}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
@@ -84,7 +101,7 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                    <div className={`${styles.team} ${styles.team5}`}>
+                    <div className={`${styles.team} ${styles.team6}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
@@ -101,7 +118,7 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                    <div className={`${styles.team} ${styles.team6}`}>
+                    <div className={`${styles.team} ${styles.team7}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
@@ -118,7 +135,7 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                    <div className={`${styles.team} ${styles.team10}`}>
+                    <div className={`${styles.team} ${styles.team8}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
@@ -152,7 +169,7 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-                    <div className={`${styles.team} ${styles.team7}`}>
+                    <div className={`${styles.team} ${styles.team10}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
@@ -170,7 +187,7 @@ const Team = () => {
                         </div>
                     </div>
                     
-                    <div className={`${styles.team} ${styles.team8}`}>
+                    <div className={`${styles.team} ${styles.team11}`}>
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
