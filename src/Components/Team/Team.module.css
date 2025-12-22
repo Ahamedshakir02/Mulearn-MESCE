@@ -81,6 +81,7 @@
     display: flex;
     font-weight: 700;
     height: fit-content;
+    text-align: center;
     width: fit-content;
     font-size: 1.4rem;
 }
@@ -110,7 +111,7 @@
 .team1 {
     margin-top: -30px;
     top: 0;
-    left: 5%;
+    left: 7%;
 }
 
 .team2 {
@@ -171,8 +172,15 @@
 .team10 {
     margin-top: 700px;
 
+    top: 10%;
+    left: 30%;
+}
+
+.team11 {
+    margin-top: 700px;
+
     top: 100%;
-    left: 50%;
+    left: 55%;
 }
 
 @media screen and (max-width: 1650px) {
@@ -240,15 +248,22 @@
     .team9 {
         margin-top: 720px;
         top: 100%;
-        left: 24%;
+        left: 30%;
     }
 
     .team10 {
-        margin-top: 720px;
+        margin-top: 740px;
 
         top: 100%;
-        left: 57%;
+        left: 7%;
     }
+
+    .team11 {
+    margin-top: 720px;
+
+    top: 100%;
+    left: 55%;
+}
 
 }
 
@@ -656,6 +671,12 @@
         margin-top: 910px;
 
         left: 52%;
+    }
+
+    .team11 {
+        margin-top: 1150px;
+
+        left: 30%;
     }
 }
 
