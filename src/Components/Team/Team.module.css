@@ -703,3 +703,28 @@
         min-height: 1200px;
     }
 }
+
+.teamGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+}
+
+.memberImage,
+.profileImage,
+.teamCard img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.memberCard {
+  position: relative;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .blob,
+  .backgroundBlob {
+    display: none;
+  }
+}
